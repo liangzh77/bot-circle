@@ -1,0 +1,7 @@
+{
+  "siliconFlow": {
+    "apiKey": "",
+    "textModel": "deepseek-ai/DeepSeek-V3.2"
+  },
+  "robotsDir": "data/robots"
+}
