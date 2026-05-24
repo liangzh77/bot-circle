@@ -3,5 +3,6 @@
     "apiKey": "",
     "textModel": "deepseek-ai/DeepSeek-V3.2"
   },
-  "robotsDir": "data/robots"
+  "robotSetsDir": "data/robot_sets",
+  "robotSet": "news_salon"
 }
